@@ -1,0 +1,34 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    padding-bottom: 10px;
+  }
+  .heading_div
+  {
+    font-size: 18px ;
+    border-radius: 7px;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    width:30%;
+  }
+
+  canvas{
+    margin-top: 129px;
+    width:300px;
+    height:300px;
+    box-shadow:  5px 5px 5px aqua;
+  }
+ 
